@@ -17,14 +17,16 @@ Ideal for data scientists and health researchers interested in predictive analyt
 
 🧰 Tools & Technologies Used
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-
 Jupyter Notebook
 
+
 📁 Project Files
-Filename	Description
-Sleep_health_ml_pipeline.ipynb	Jupyter Notebook with data preprocessing, feature engineering, and ML models
-Sleep_health_and_lifestyle_dataset.csv	Raw dataset for training and testing
-README.md	Project documentation
+| Filename                                 | Description                                                                  |
+| ---------------------------------------- | ---------------------------------------------------------------------------- |
+| `Sleep_health_ml_pipeline.ipynb`         | Jupyter Notebook with data preprocessing, feature engineering, and ML models |
+| `Sleep_health_and_lifestyle_dataset.csv` | Raw dataset for training and testing                                         |
+| `README.md`                              | Project documentation                                                        |
+
 
 🚀 Machine Learning Pipeline
 1. Data Loading & Preprocessing
